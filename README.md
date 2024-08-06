@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konan931
 - 👀 I’m interested in Codes, Magic, Music, Skateboarding, Graffiti,...
-- 🌱 I’m currently learning Fullstack-Development e.g. Python, Java, C, C++ Server-sided // HTML, CSS, Javascript (also React, Node.JS,...),... Client-sided.
+- 🌱 I’m currently learning Fullstack-Development e.g. Python, Java, C, C++, C#, Java, Julia,... // HTML, CSS, Javascript (also React, Node.JS,...),... and also some PhP, SQL, Ruby, Bash, ML/LLM Basics,...
 - 💞️ I’m looking to collaborate on World Domination and Love.
 - 📫 How to reach me: Carrier Pidgeons only!
 - 😄 Pronouns: something
