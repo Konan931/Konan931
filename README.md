@@ -1,5 +1,5 @@
 👋 Hi, I’m @Konan931
-I’m a developer exploring the boundaries of what code can do, driven by curiosity and a love for the fine details — whether it’s finding an elegant solution in Python or experimenting with the speed and elegance of Julia. My approach to coding is a bit like performing a good card trick: it’s about practice, finesse, and making it look effortless when it all comes together.
+I’m a developer exploring the boundaries of what code can do, driven by curiosity and a love for the fine details — whether it’s finding an elegant solution in web-applications or experimenting with the speed and elegance of Julia. My approach to coding is a bit like performing a good card trick: it’s about practice, finesse, and making it look effortless when it all comes together.
 
 💻 What I’m Up To
 Full-Stack Development:
