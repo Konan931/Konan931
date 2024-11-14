@@ -4,12 +4,11 @@ I’m a developer exploring the boundaries of what code can do, driven by curios
 
 **💻 What I’m Up To**
 
-_Full-Stack Development_
+_Full-Stack Development_:
 
 Building reliable and scalable web applications using tools like Python, JavaScript (React, Node.js), and SQL. I enjoy crafting both the backend logic and frontend experience to make things run smoothly.
 
 _Diving into Julia Lang_ ⚛️:
-
 The efficiency and performance of Julia make it a great fit for data-heavy tasks and scientific computing. It’s a powerful tool that I enjoy bringing into the mix when speed matters.
 
 _Low-Level Adventures & Systems Programming_:
@@ -28,6 +27,7 @@ While carrier pigeons are always welcome (I appreciate the old-school charm), a 
 "Fun" is overrated unless it involves solving a tricky problem or a Schnoop on the keyboard. If she’s there, it’s best not to disturb — she’s probably figuring out something we’ve missed. Rumor has it, she’s the true mastermind behind some of the best codes.
 
 **💭 Final Thoughts**
+
 Coding is a bit like performing magic close-up or even bombing a blank wall with a fresh idea: when done right, it looks effortless, but there’s a lot of skill, practice, and creative chaos behind it. If you’re into exploring that craft together, let’s connect and see what we can create.
 
 <!--- Konan931/Konan931 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
