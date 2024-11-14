@@ -1,14 +1,14 @@
-👋 Hi, I’m @Konan931
+**👋 Hi, I’m @Konan931**
 I’m a developer exploring the boundaries of what code can do, driven by curiosity and a love for the fine details — whether it’s finding an elegant solution in web-applications or experimenting with the speed and elegance of Julia. My approach to coding is a bit like performing a good card trick: it’s about practice, finesse, and making it look effortless when it all comes together.
 
-💻 What I’m Up To
-Full-Stack Development:
+**💻 What I’m Up To**
+_Full-Stack Development▶️
 Building reliable and scalable web applications using tools like Python, JavaScript (React, Node.js), and SQL. I enjoy crafting both the backend logic and frontend experience to make things run smoothly.
 Diving into Julia (the Language):
 The efficiency and performance of Julia make it a great fit for data-heavy tasks and scientific computing. It’s a powerful tool that I enjoy bringing into the mix when speed matters.
 Low-Level Adventures & Systems Programming:
 Exploring the nuts and bolts of software, from performance optimization to kernel-level tinkering. It’s like mastering the sleight of hand (or Legerdemain) in coding — the real skill is in what you don’t see.
-🎩 A Little About Me
+**🎩 A Little About Me**
 Beyond the screen, I have a love for the subtle art of illusion — whether it’s a well-placed card trick, a quick coin vanish, or pulling off a slick move when no one expects it. There’s something fascinating about the precision and psychology involved, much like debugging a tricky piece of code. It’s all about misdirection, control, and finding that perfect line — just like carving a clean path on a skateboard or sketching out a piece on an untouched wall.
 
 📬 How to Reach Me
