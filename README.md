@@ -20,7 +20,7 @@ void githubGreeting() {
 }
 
 void githubGreetingTok() {
-    char buffer[250];
+    char buffer[235];
     strcpy(buffer, 
       "00111100 01001010 01110101 01110011 01110100 00100000 "
       "00101000 01100100 01100101 00101001 01100011 "
