@@ -46,3 +46,7 @@ int main() {
     return 0;
 }
 ```
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/73318f51-ed24-4329-b58e-80ef445a3f4f/thumbnail" >
+</p>
