@@ -40,7 +40,7 @@ void githubGreetingTok() {
 }
 
 int main() {
-    printf("Executing your github greeting function -> please wait...\n");
+    printf("Executing this little github greeting -> please wait (and stay calm)...\n");
     githubGreeting();
     githubGreetingTok();
     return 0;
