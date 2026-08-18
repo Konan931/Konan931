@@ -1,0 +1,4 @@
+[netcontrol]
+timeout = 3.0
+ping_count = 3
+watch_interval = 2.0

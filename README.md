@@ -1,52 +1,52 @@
-```c
+# NetControl
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+Ein kompaktes, sicheres Network-Control-Tool für Linux: Systemüberblick,
+Schnittstellenstatistiken, Routing, lokale Verbindungen, DNS, Ping,
+gezielte TCP-Checks und Live-Bandbreitenmonitoring – ohne externe
+Python-Abhängigkeiten.
 
-void githubGreeting() {
-    const char *binaryGreeting[] = {
-        "01001010","01110101","01110011","01110100","00100000",
-        "00101000","01100100","01100101","00101001","01100011",
-        "01101111","01100100","01101001","01101110","01100111", 
-    "00101110"
-    };
+## Schnellstart
 
-    for (int i = 0; i < 16; ++i) {
-        long v = strtol(binaryGreeting[i], NULL, 2);
-        putchar((char)v);
-    }
-    putchar('\n');
-}
-
-void githubGreetingTok() {
-    char buffer[235];
-    strcpy(buffer, 
-      "00111100 01001010 01110101 01110011 01110100 00100000 "
-      "00101000 01100100 01100101 00101001 01100011 "
-      "01101111 01100100 01101001 01101110 01100111 "
-      "00100000 01110100 01101111 01101011 01100101 " 
-      "01101110 01110011 00101110 00101010 00111110 "
-    );
-
-    const char *delim = " ";
-    char *token = strtok(buffer, delim);
-    while (token) {
-        long v = strtol(token, NULL, 2);
-        putchar((char)v);
-        token = strtok(NULL, delim);
-    }
-    putchar('\n');
-}
-
-int main() {
-    printf("Executing this little github greeting -> please wait (and stay calm)...\n");
-    githubGreeting();
-    githubGreetingTok();
-    return 0;
-}
+```bash
+python3 netcontrol.py status
+python3 netcontrol.py interfaces
+python3 netcontrol.py routes
+python3 netcontrol.py connections --listening
+python3 netcontrol.py dns example.org
+python3 netcontrol.py check example.org 443 --timeout 2
+python3 netcontrol.py ping 1.1.1.1 --count 3
+python3 netcontrol.py watch --interval 1
 ```
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/73318f51-ed24-4329-b58e-80ef445a3f4f/thumbnail" >
-</p>
+`--json` gehört vor den Unterbefehl und liefert stabile, maschinenlesbare
+Ausgaben, etwa `python3 netcontrol.py --json status`. `--verbose` aktiviert
+Diagnoselogs. Exitcode `0` steht für Erfolg, `2` für einen nicht erreichbaren
+Ping/TCP-Endpunkt und `1` für Eingabe- oder Laufzeitfehler.
+
+## Konfiguration
+
+Die optionale TOML-Datei setzt Standardwerte:
+
+```bash
+cp netcontrol.toml.example netcontrol.toml
+python3 netcontrol.py --config netcontrol.toml status
+```
+
+CLI-Optionen überschreiben die Konfiguration. Python 3.11 oder neuer wird
+empfohlen. Die Systeminformationen stammen aus `/proc` und `/sys`; auf anderen
+Betriebssystemen bleiben DNS und TCP-Checks nutzbar, während Linux-spezifische
+Tabellen leer sein können. Der Ping-Befehl benötigt das lokale `ping`-Programm.
+
+## Sicherheit
+
+NetControl verändert weder Firewall, Routen noch Schnittstellen. Der TCP-Check
+prüft genau den angegebenen Host und Port; es gibt bewusst keinen Portscanner.
+Für die normalen Funktionen sind keine Root-Rechte erforderlich. Teile
+prozessfremder Socket-Informationen können abhängig von den Systemrechten fehlen.
+
+## Entwicklung
+
+```bash
+python3 -m unittest discover -s tests -v
+python3 -m py_compile netcontrol.py
+```
