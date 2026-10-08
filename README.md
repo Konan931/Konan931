@@ -1,5 +1,13 @@
-<!-- DWP GitHub Profile Dashboard v0.4 | First restrained enhancement -->
+<!-- Profile README visual pass v0.5; artwork and theme-aware stats -->
 <h1 align="center">KONAN931 <code>// DWP™</code></h1>
+
+<p align="center">
+  <img
+    src="https://i.ibb.co/Xkp97BYT/D8662870-5-DD7-4145-9-E4-F-ED9-A0-E18-F372.png"
+    width="620"
+    alt="Artwork selected for the Konan931 GitHub profile"
+  >
+</p>
 
 <p align="center">
   <samp>I'm learning through various projects, small and big failures, front-, and backend experiments — particularly programming languages, systems programming and developer workflows.</samp>
@@ -62,7 +70,6 @@ int main() {
     return 0;
 }
 ```
----
 
 </details>
 <p align="center">
@@ -100,18 +107,16 @@ I also work on film and music projects; not all of that work is public here. For
 
 <p align="center">
   <a href="https://github.com/Konan931?tab=repositories">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api?username=Konan931&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=transparent"
-      alt="Konan931 public GitHub activity statistics"
-    >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Konan931&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=dark_github">
+      <img width="390" src="https://github-stats-extended.vercel.app/api?username=Konan931&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=light_github" alt="Konan931 public GitHub activity statistics">
+    </picture>
   </a>
   <a href="https://github.com/Konan931?tab=repositories">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Konan931&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent"
-      alt="Languages by repository code on GitHub"
-    >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Konan931&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=dark_github">
+      <img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Konan931&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=light_github" alt="Languages by code in public GitHub repositories">
+    </picture>
   </a>
 </p>
 
