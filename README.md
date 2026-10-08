@@ -2,9 +2,9 @@
 <h1 align="center">KONAN931 <code>// DWP™</code></h1>
 
 <p align="center">
-  <samp>Coding diversity, full-stack solutions and experimental language projects · Cybersecurity (SEC_SOL-Department) in the making · Scientific interests and natural curiosity · Featuring audiovisual projects as well in the portfolio</samp>
-  <br><hr>
-  <samp>Low-level affinity. Open for all CS-related topics. No code-religions.</samp>
+  <samp>I'm learning through code, small tools and experiments — particularly programming languages, systems programming and developer workflows.</samp>
+  <br>
+  <samp>Also interested in security, scientific computing, film and music. No language wars.</samp>
 </p>
 
 <p align="center">
@@ -14,30 +14,37 @@
   >
 </p>
 
-> **Just (de)coding.** Beyond syntax: and sometimes into various strange but useful experiments too.
+> **Just (de)coding.** Some projects are useful; others are simply worth exploring.
 
 ## Featured work
 
 ### Templates
 
-- **[compact-dev](https://github.com/Konan931/compact-dev)**
-— compact project scaffolding that stays auditable
-- separates the generator from the repository it generates: the CLI operates on user-selected targets instead of assuming its own installation directory
+**[compact-dev](https://github.com/Konan931/compact-dev)** — A compact, inspectable project generator and repository auditor with composable presets.
 
-### Some Other Public Projects
+Contributions are welcome, especially for planned `go-cli` and `c-cli` presets with real build/test flows. TypeScript/Node overlays and audit improvements are also on the [roadmap](https://github.com/Konan931/compact-dev/blob/main/docs/roadmap.md). See [CONTRIBUTING.md](https://github.com/Konan931/compact-dev/blob/main/CONTRIBUTING.md).
 
-- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)**
-— Reproducibility-focused tooling for investigating coding-platform behavior
-- **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)**
-— Cross-language programming experiments and comparisons
+### Public technical projects
 
-## GitHub telemetry
+- **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)** — Programming and tooling experiments across languages.
+- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)** — Reproducing and documenting issues in coding-learning platforms.
+- **[C-Repo](https://github.com/Konan931/C-Repo)** — A collection of C utilities and experiments with strings, files, memory and more.
+
+### Berlin & Brandenburg · Pilzatlas (DE)
+
+**[Pilzatlas-Lab](https://github.com/Konan931/Pilzatlas-Lab)** — Ein experimenteller Pilzatlas mit Karten, Datenquellen und Exkursionsplanung für Berlin und Brandenburg. Hinweise, Tests und Beiträge zur Weiterentwicklung sind willkommen.
+
+### Beyond the public repositories
+
+I also work on film and music projects; not all of that work is public here. For related projects and collaborations, see [Digital Welfare Productions](https://github.com/Digital-Welfare-Productions).
+
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/Konan931?tab=repositories">
     <img
       height="170"
-      src="https://github-stats-extended.vercel.app/api?username=Konan931&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent"
+      src="https://github-stats-extended.vercel.app/api?username=Konan931&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=transparent"
       alt="Konan931 public GitHub activity statistics"
     >
   </a>
