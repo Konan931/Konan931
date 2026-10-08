@@ -2,9 +2,9 @@
 <h1 align="center">KONAN931 <code>// DWP™</code></h1>
 
 <p align="center">
-  <samp>Digital Welfare Productions™ · Systems · Security · Science · Creative Code</samp>
-  <br>
-  <samp>Low-level curiosity. High-level experiments. Inspectable results.</samp>
+  <samp>Coding diversity, full-stack solutions and experimental language projects · Cybersecurity (SEC_SOL-Department) in the making · Scientific interests and natural curiosity · Featuring audiovisual projects as well in the portfolio</samp>
+  <br><hr>
+  <samp>Low-level affinity. Open for all CS-related topics. No code-religions.</samp>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   >
 </p>
 
-> **Just (de)coding.** Beyond syntax: systems, science, security, and strange but useful experiments.
+> **Just (de)coding.** Beyond syntax: and sometimes into various strange but useful experiments too.
 
 ## Featured work
 
@@ -118,4 +118,4 @@ int main() {
 
 ---
 
-<sub>Digital Welfare Productions™ · Think, test, trace, repeat.</sub>
+<sub>Digital Welfare Productions™ Unltd. International · 2026</sub>
