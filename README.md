@@ -18,9 +18,18 @@
 
 ## Featured work
 
-- **[Pilzatlas-Lab](https://github.com/Konan931/Pilzatlas-Lab)** — Field-research tooling for fungi, habitats, and exploratory mapping.
-- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)** — Reproducibility-focused tooling for investigating coding-platform behavior.
-- **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)** — Cross-language programming experiments and comparisons.
+### Templates
+
+- **[compact-dev](https://github.com/Konan931/compact-dev)**
+— compact project scaffolding that stays auditable
+- separates the generator from the repository it generates: the CLI operates on user-selected targets instead of assuming its own installation directory
+
+### Some Other Public Projects
+
+- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)**
+— Reproducibility-focused tooling for investigating coding-platform behavior
+- **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)**
+— Cross-language programming experiments and comparisons
 
 ## GitHub telemetry
 
