@@ -94,6 +94,7 @@ Contributions are welcome, especially for planned `go-cli` and `c-cli` presets w
 - **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)** — Programming and tooling experiments across languages.
 - **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)** — Reproducing and documenting issues in coding-learning platforms.
 - **[C-Repo](https://github.com/Konan931/C-Repo)** — A collection of C utilities and experiments with strings, files, memory and more.
+- **[netcontrol](https://github.com/Konan931/netcontrol)** — A small, dependency-free Linux network diagnostics CLI (Python).
 
 ### Berlin & Brandenburg · Pilzatlas (DE)
 
