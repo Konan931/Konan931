@@ -4,15 +4,15 @@
 <p align="center">
   <img
     src="https://i.ibb.co/Xkp97BYT/D8662870-5-DD7-4145-9-E4-F-ED9-A0-E18-F372.png"
-    width="620"
+    width="100%"
     alt="Artwork selected for the Konan931 GitHub profile"
   >
 </p>
 
 <p align="center">
-  <samp>I'm learning through various projects, small and big failures, front-, and backend experiments — particularly programming languages, systems programming and developer workflows.</samp>
+  <samp>I'm learning through projects, experiments, and failures both small and large — especially around programming languages, systems programming, and developer tools.</samp>
   <br>
-  <samp>Also an eye on security, scientific computing, film-making and music, analog and digital. No lang-religions.</samp>
+  <samp>Also interested in security, scientific computing, filmmaking, and music, both analog and digital. No language dogma.</samp>
 </p>
 
 ---
@@ -85,20 +85,23 @@ int main() {
 
 ### Templates
 
-**[compact-dev](https://github.com/Konan931/compact-dev)** — A compact, inspectable project generator and repository auditor with composable presets.
+**[compact-dev](https://github.com/Konan931/compact-dev)** — A project generator and repository auditor with composable presets.
 
 Contributions are welcome, especially for planned `go-cli` and `c-cli` presets with real build/test flows. TypeScript/Node overlays and audit improvements are also on the [roadmap](https://github.com/Konan931/compact-dev/blob/main/docs/roadmap.md). See [CONTRIBUTING.md](https://github.com/Konan931/compact-dev/blob/main/CONTRIBUTING.md).
 
-### Public technical projects
+### Projects & tools
 
-- **[polyglot_topics_lab](https://github.com/Konan931/polyglot_topics_lab)** — Programming and tooling experiments across languages.
-- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)** — Reproducing and documenting issues in coding-learning platforms.
-- **[C-Repo](https://github.com/Konan931/C-Repo)** — A collection of C utilities and experiments with strings, files, memory and more.
-- **[netcontrol](https://github.com/Konan931/netcontrol)** — A small, dependency-free Linux network diagnostics CLI (Python).
+- **[coding-platform-quality-watch](https://github.com/Konan931/coding-platform-quality-watch)** — Reproducible reports and a small web interface for examining problems in coding-learning platforms (v0.2 foundation).
+- **[FreiFahren](https://github.com/Konan931/FreiFahren)** — My fork of the [original project](https://github.com/MaxL/FreiFahren). Exploring multi-city support and internationalization; these are [planned improvements](https://github.com/Konan931/FreiFahren/blob/main/docs/PHASE_2_MULTI_CITY.md), not finished features. Feedback and contributions welcome.
+- **[netcontrol](https://github.com/Konan931/netcontrol)** — A small Python CLI for Linux network diagnostics, with JSON output and unit tests.
 
 ### Berlin & Brandenburg · Pilzatlas (DE)
 
 **[Pilzatlas-Lab](https://github.com/Konan931/Pilzatlas-Lab)** — Ein experimenteller Pilzatlas mit Karten, Datenquellen und Exkursionsplanung für Berlin und Brandenburg. Hinweise, Tests und Beiträge zur Weiterentwicklung sind willkommen.
+
+### Learning & experiments
+
+**[C-Repo](https://github.com/Konan931/C-Repo)** — An older collection of C utilities and exercises. Kept as a learning repository, with room for fixes, tests and documentation improvements.
 
 ### Beyond the public repositories
 
